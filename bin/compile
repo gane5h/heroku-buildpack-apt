@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
 
-echo "This buildpack has been deprecated. Please choose a different buildpack or fork to your own account."
-exit 1
+# echo "This buildpack has been deprecated. Please choose a different buildpack or fork to your own account."
+# exit 1
 
 echo "Depre"
 # fail fast
